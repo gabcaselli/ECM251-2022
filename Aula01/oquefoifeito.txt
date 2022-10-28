@@ -1,0 +1,4 @@
+Instalação da JVM e JDK, clonar o rep do GitHub, verifamos se o compilador estava no path por meio do terminal, chamamos 
+o compilador por linha de comando, geramos aqrquivo .class e o executamos - tudo manualmente
+
+no terminal: "javac" gera arquivo.class e "java"pega esse arquivo e manda para JVM para ser executado

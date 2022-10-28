@@ -1,0 +1,10 @@
+1. Onde está instalado o JDK?
+R: Digitar no terminal "java -version" ou "/usr/libexec/java_home -v 1.8"
+
+2. Qual o caminho completo até o Java e o JavaC
+3. Como compilamos um programa em linhas de comando?
+4. Como executamos este programa?
+5. O que são variáveis de ambiente?
+6. Qualquer um pode criar variáveis de ambiente?
+7. Qualquer um pode criar uma variável?
+8. O que é o JAVA_HOME?
